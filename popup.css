@@ -39,7 +39,7 @@
   transition: all 5s ease-in-out;
 }
 
-.pop-popup .close {
+.pop-popup .tutup {
   position: absolute;
   top: 20px;
   right: 30px;
@@ -49,10 +49,10 @@
   text-decoration: none;
   color: #333;
 }
-.pop-popup .close:hover {
+.pop-popup .tutup:hover {
   color: #06D85F;
 }
-.pop-popup .content {
+.pop-popup .konten {
   max-height: 30%;
   overflow: auto;
 }
