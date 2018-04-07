@@ -1,0 +1,45 @@
+#kandang {
+position: relative;
+width: 100%;
+margin: 0;
+}
+
+#amehnggoleki 
+{
+height: 40px;
+border: 1px solid #999;
+background-color: #fff;
+overflow: hidden;
+}
+#nggoleki 
+{
+font-size: 14px;
+color: #ddd;
+border-width: 0;
+background: transparent;
+}
+#kandang input[type="text"]
+{
+width: 90%;
+padding: 11px 0 12px 1em;
+color: #333;
+outline: none;
+}
+
+#tombol-cari {
+position: absolute;
+top: 0;
+right: 0;
+height: 42px;
+width: 80px;
+font-size: 14px;
+color: #fff;
+text-align: center;
+line-height: 42px;
+border-width: 0;
+background-color: #4d90fe;
+-webkit-border-radius: 0px 5px 5px 0px;
+-moz-border-radius: 0px 5px 5px 0px;
+border-radius: 0px 5px 5px 0px;
+cursor: pointer;
+}
